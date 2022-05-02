@@ -14,7 +14,8 @@ const app = new Vue ({
 
   data: {
 
-    messaggio: "Hello World!"
+    messaggio: "Ecco a voi un Falcon Rocket!",
+    immagine : "https://upload.wikimedia.org/wikipedia/commons/1/1d/Launch_of_Falcon_9_carrying_ORBCOMM_OG2-M1_%2816601442698%29.jpg"
 
   }
 })
