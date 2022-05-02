@@ -14,7 +14,7 @@ const app = new Vue ({
 
   data: {
 
-    messaggio: "Hello World"
+    messaggio: "Hello World!"
 
   }
 })
